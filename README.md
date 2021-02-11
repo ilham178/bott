@@ -7,7 +7,7 @@ Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
 **If you want to translate this bot**, [please go here](https://github.com/ilham178/bott/edit/master/README.md)
 
-Can be found as [Emilia](https://t.me/EmiliaHikariBot).
+Can be found as [ILHAM MANSIEZZ](https://t.me/bismillahselaluadaa).
 
 
 For questions regarding creating your own bot, please head to [support group](https://t.me/EmiliaOfficial) where you'll find a
@@ -183,6 +183,6 @@ through the `/stats` command, which is only available to the bot owner.
 ## Special Credits
 
 Thanks to this user:
-- [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
-- [Yan Gorobtsov](https://github.com/MrYacha) - for welcome security base and connection base and maybe others
-- [アキト ミズキト](https://github.com/peaktogoo) - for reworked federation module
+- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat/edit/master/README.md) - marie creator, inspiration to do many things
+- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat/edit/master/README.md) - for welcome security base and connection base and maybe others
+- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat/edit/master/README.md) - for reworked federation module
