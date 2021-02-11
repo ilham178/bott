@@ -1,11 +1,11 @@
-# Emilia
+# Ilham Mansiezz
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
-### [Read indonesia README](https://github.com/AyraHikari/EmiliaHikari/blob/master/README.id.md)
+### [Read indonesia README](https://github.com/ilham178/bott/edit/master/README.md)
 
-**If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/ilham178/bott/edit/master/README.md)
 
 Can be found as [Emilia](https://t.me/EmiliaHikariBot).
 
@@ -14,10 +14,10 @@ For questions regarding creating your own bot, please head to [support group](ht
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
 
-Join the [news channel](https://t.me/AyraBotNews) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/gabutttttttttttttttttttttttttt) if you just want to stay in the loop about new features or
 announcements.
 
-Or [ask me in telegram](https://t.me/AyraHikari)! (Save all support questions in the support chat, where more people can help you.)
+Or [ask me in telegram](https://t.me/bismillahselaluadaa)! (Save all support questions in the support chat, where more people can help you.)
 
 Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
